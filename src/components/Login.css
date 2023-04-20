@@ -1,0 +1,49 @@
+.col1 {
+    width: 30vw;
+    height: 100vh;
+    background: #000000;
+}
+td{
+    padding-top: 0px;
+}
+
+.logo {
+    color: #F5F5F5;
+    font-size: 4vw;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color: #FFFFFF;
+
+}
+
+table{
+    border-collapse: collapse;
+}
+/* .col2 {
+    width: 100vw;
+    height: 100vh;
+    background: #F5F5F5;
+} */
+
+.heading {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 2vw;
+    color: #000000;
+}
+
+
+
+
+.l1{
+    font-size: 20px;
+    color: #858585;
+    position: absolute;
+    top:90vh;
+  }
+
+  link{
+    color: #346BD4;
+  }
+
+  
