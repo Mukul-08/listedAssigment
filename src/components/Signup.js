@@ -7,7 +7,7 @@ import './Signup.css'
 function Login() {
   const navigation = useNavigate();
   function sumbit(){
-    navigation('/')
+    navigation('/listedAssigment/')
   }
 
   useEffect(() => {

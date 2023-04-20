@@ -5,7 +5,7 @@ import {useNavigate,Link} from 'react-router-dom'
 function Login() {
   const navigation = useNavigate();
   function submit(){
-    navigation('/home')
+    navigation('/listedAssigment/home')
   }
     return (
 
