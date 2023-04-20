@@ -25,7 +25,7 @@ function Login() {
           <button type="sumbit" onClick={submit} className='button1'>Sumbit</button>
         </form>
         </div>
-        <h1 className='l2'>Don't have Account ? <Link to="/Signup">Register here</Link></h1>
+        <h1 className='l2'>Don't have Account ? <Link to="/listedAssigment/Signup">Register here</Link></h1>
       
           </td>
         </table>

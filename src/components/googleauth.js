@@ -13,7 +13,7 @@ export default function  Googleauth(){
     const onSuccess = function (res) {
       if(res){
           console.log("LOGIN SUCCESS! current user: ",res.profileObj);
-          navigation('/home')
+          navigation('/listedAssigment/home')
         }
     }
     const onFailure = (res) => {
